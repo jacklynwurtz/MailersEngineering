@@ -158,9 +158,6 @@ header {
     align-content: center;
 }
 
-
-/*Marcie-homepage*/
-
 .blog {
     position: relative;
     text-align: center;
@@ -172,12 +169,12 @@ header {
 }
 
 .blog-text {
-    position: relative;
-    bottom: 360px;
-    left: 400px;
+    position: center;
+    bottom: 36px;
+    left: 40px;
     font-family: 'Comfortaa', cursive;
-    font-size: 24px;
-    font-weight: bold;
+    font-size: 14px;
+    font-weight: normal;
 }
 
 .latest {
@@ -203,21 +200,6 @@ header {
     text-align: center;
     font-size: 13px;
     font-family: 'Comfortaa', cursive;
-}
-
-.subscribe {
-    text-align: center;
-    font-family: 'Comfortaa', cursive;
-    border-top: 5px solid #703D57;
-    margin: 20px 80px;
-}
-
-.subscribe h1 {
-    font-size: 24px;
-}
-
-.subscribe h3 {
-    font-size: 16px;
 }
 
 .testimonial {
@@ -256,7 +238,6 @@ header {
 /*bottom menu - every page -*/
 
 .menu {
-    /*is there a better way to center this section?*/
     width: 100%;
     display: inline-block;
     text-align: center;
