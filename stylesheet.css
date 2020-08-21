@@ -17,7 +17,7 @@ body {
 .container h1 {
     font-size: 75px;
     letter-spacing: 5px;
-    font-family: 'Laila', serif;
+    font-family: 'roman';
     align-content: space-between;
     text-align: center;
 }
@@ -31,7 +31,8 @@ body {
     font-size: 20px;
     padding-top: 10px;
     letter-spacing: 1px;
-    font-family: 'Laila', serif;
+    font-family: 'roman';
+    border: 2px solid black;
 }
 
 .btn {
@@ -40,7 +41,7 @@ body {
     padding: 12px 24px;
     color: black;
     background-color: white;
-    font-family: 'Laila', serif;
+    font-family: 'roman';
     text-decoration: none;
 }
 
@@ -97,7 +98,7 @@ header {
     padding-top: 20px;
     font-size: 15px;
     letter-spacing: 0.5px;
-    font-family: 'Laila', serif;
+    font-family: 'roman';
 }
 
 .login:hover {
@@ -120,7 +121,7 @@ header {
     margin: 0 auto;
     text-align: center;
     padding-top: 40px;
-    font-family: Comfortaa;
+    font-family: 'roman';
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -131,7 +132,7 @@ header {
     width: 1170px;
     margin: 0 auto;
     text-align: center;
-    font-family: Comfortaa;
+    font-family: 'roman';
     margin-bottom: 60px;
 }
 
@@ -153,7 +154,7 @@ header {
     height: 300px;
     color: black;
     background-color: white;
-    font-family: 'Laila', serif;
+    font-family: 'roman';
     font-size: 50px;
     align-content: center;
 }
@@ -172,7 +173,7 @@ header {
     position: center;
     bottom: 36px;
     left: 40px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'roman';
     font-size: 14px;
     font-weight: normal;
 }
@@ -184,7 +185,7 @@ header {
 
 .latest h1 {
     padding: 20px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'roman';
     font-size: 24px;
     font-weight: bold;
 }
@@ -199,7 +200,7 @@ header {
     display: inline-block;
     text-align: center;
     font-size: 13px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'roman';
 }
 
 .testimonial {
@@ -224,7 +225,7 @@ header {
     padding: 10px;
     margin-bottom: 40px;
     font-style: italic;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'roman';
     font-size: 16px;
 }
 
@@ -249,13 +250,13 @@ header {
 }
 
 .column h1 {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'roman';
     font-size: 18px;
     font-weight: bold;
 }
 
 .column p {
-    font-family: 'Comfortaa', cursive;
+    font-family: 'roman';
     font-size: 14px;
 }
 
@@ -274,7 +275,7 @@ header {
 footer {
     background-color: black;
     color: white;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'roman';
     font-size: 16px;
     width: 1170px;
     padding: 10px 40px;
