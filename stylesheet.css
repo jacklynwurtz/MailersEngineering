@@ -22,17 +22,12 @@
                                     text-align: left;
                                 }
                                 
-                                .bio img {
-                                    width: 1170px;
-                                    height: 400px;
-                                }
-                                
                                 .bio-text {
                                     position: center;
                                     bottom: 36px;
                                     left: 40px;
                                     font-family: 'Cinzel';
-                                    font-size: 14px;
+                                    font-size: 20px;
                                     font-weight: normal;
                                 }
                                 
