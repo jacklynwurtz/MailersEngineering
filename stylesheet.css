@@ -37,7 +37,7 @@
                                     font-weight: normal;
                                 }
                                 
-                                .pic-title {
+                                .SaleItems {
                                     width: 1170px;
                                     margin: 0 auto;
                                     text-align: center;
@@ -45,16 +45,27 @@
                                     font-family: 'roman';
                                     font-style: normal;
                                     font-weight: bold;
-                                    font-size: 20px;
+                                    font-size: 25px;
                                     color: #000000;
                                 }
                                 
-                                .img-container {
+                                .sale-container {
                                     width: 1170px;
                                     margin: 0 auto;
                                     text-align: center;
                                     font-family: 'roman';
                                     margin-bottom: 60px;
+                                }
+                                
+                                .sale-box {
+                                    border: 2px solid black;
+                                    padding: 15px;
+                                    margin: 15px;
+                                }
+                                
+                                .sale-box a {
+                                    text-decoration: none;
+                                    color: black;
                                 }
                                 
                                 .btn-wrapper {
@@ -151,17 +162,6 @@
                                     color: white;
                                 }
                                 
-                                .img-box {
-                                    border: 2px solid black;
-                                    padding: 15px;
-                                    margin: 15px;
-                                }
-                                
-                                .img-box a {
-                                    text-decoration: none;
-                                    color: black;
-                                }
-                                
                                 .coming-soon {
                                     width: 400px;
                                     margin: 0 auto;
@@ -206,14 +206,15 @@
                                 }
                                 
                                 .InkPolicy h1 {
-                                    margin-left: 40px;
-                                    margin-top: 40px;
-                                    margin-right: 10px;
                                     font-family: 'Roman';
-                                    font-size: 40px;
                                     font-weight: bold;
-                                    float: left;
+                                    font-size: 40px;
+                                    text-align: center;
+                                }
+                                
+                                .InkPolicy h2 {
                                     border: 2px solid #4366af;
+                                    text-align: center;
                                 }
                                 
                                 .InkPolicy p {
