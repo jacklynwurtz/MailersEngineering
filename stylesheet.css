@@ -198,13 +198,13 @@
                                     font-family: 'roman';
                                 }
                                 
-                                .testimonial {
+                                .InkPolicy {
                                     margin: 20px 80px;
                                     border-top: 5px solid #703D57;
                                     border-bottom: 5px solid #703D57;
                                 }
                                 
-                                .testimonial h1 {
+                                .InkPolicy h1 {
                                     margin-left: 100px;
                                     margin-top: 40px;
                                     margin-right: 10px;
@@ -214,7 +214,7 @@
                                     float: left;
                                 }
                                 
-                                .testimonial p {
+                                .InkPolicy p {
                                     border: 2px solid #D9B8C4;
                                     float: right;
                                     padding: 10px;
@@ -224,7 +224,7 @@
                                     font-size: 16px;
                                 }
                                 
-                                .testimonial:after {
+                                .InkPolicy:after {
                                     content: "";
                                     display: table;
                                     clear: both;
