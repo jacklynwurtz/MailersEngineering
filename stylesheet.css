@@ -8,10 +8,10 @@
                                     width: 1170px;
                                     height: 140px;
                                     margin: 0 auto;
-                                    background-color: white;
-                                    color: black;
+                                    background-color: #426CB4;
+                                    color: white;
                                     display: block;
-                                    padding: 0 15px;
+                                    padding: 15px 0px;
                                 }
                                 
                                 .container h1 {
@@ -22,8 +22,14 @@
                                     text-align: left;
                                 }
                                 
+                                .bio {
+                                    position: relative;
+                                    text-align: center;
+                                }
+                                
                                 .bio-text {
                                     position: center;
+                                    top: 36px;
                                     bottom: 36px;
                                     left: 40px;
                                     font-family: 'Cinzel';
@@ -168,11 +174,6 @@
                                     align-content: center;
                                 }
                                 
-                                .bio {
-                                    position: relative;
-                                    text-align: center;
-                                }
-                                
                                 .latest {
                                     position: relative;
                                     text-align: center;
@@ -200,28 +201,27 @@
                                 
                                 .InkPolicy {
                                     margin: 20px 80px;
-                                    border-top: 5px solid #703D57;
-                                    border-bottom: 5px solid #703D57;
+                                    border-top: 5px solid #4366af;
+                                    border-bottom: 5px solid #4366af;
                                 }
                                 
                                 .InkPolicy h1 {
                                     margin-left: 40px;
                                     margin-top: 40px;
                                     margin-right: 10px;
-                                    font-family: 'Comfortaa', cursive;
-                                    font-size: 24px;
+                                    font-family: 'Roman';
+                                    font-size: 40px;
                                     font-weight: bold;
                                     float: left;
+                                    border: 2px solid #4366af;
                                 }
                                 
                                 .InkPolicy p {
-                                    border: 2px solid #D9B8C4;
                                     float: right;
                                     padding: 10px;
                                     margin-bottom: 40px;
-                                    font-style: italic;
                                     font-family: 'roman';
-                                    font-size: 16px;
+                                    font-size: 26px;
                                 }
                                 
                                 .InkPolicy:after {
