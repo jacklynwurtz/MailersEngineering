@@ -95,31 +95,11 @@
                                     opacity: 0.7;
                                 }
                                 
-                                .arrivals {
+                                .brochures {
                                     padding: 5px;
                                 }
                                 
-                                .tops {
-                                    padding: 5px;
-                                }
-                                
-                                .bottoms {
-                                    padding: 5px;
-                                }
-                                
-                                .dresses {
-                                    padding: 5px;
-                                }
-                                
-                                .outerwear {
-                                    padding: 5px;
-                                }
-                                
-                                .accessories {
-                                    padding: 5px;
-                                }
-                                
-                                .sale {
+                                .links {
                                     padding: 5px;
                                 }
                                 
@@ -135,16 +115,13 @@
                                 
                                 .header-left {
                                     float: left;
+                                    width: 224px;
+                                    padding-top: 20px;
+                                    letter-spacing: 10px;
                                 }
                                 
-                                .login {
-                                    display: inline-block;
-                                    width: 124px;
+                                .header-left a {
                                     color: white;
-                                    padding-top: 20px;
-                                    font-size: 15px;
-                                    letter-spacing: 0.5px;
-                                    font-family: 'roman';
                                 }
                                 
                                 .login:hover {
