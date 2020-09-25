@@ -1,230 +1,228 @@
-                                body {
-                                    margin-left: auto;
-                                    margin-right: auto;
-                                    width: 1170px;
-                                }
-                                
-                                .container {
-                                    width: 1170px;
-                                    margin: 0 auto;
-                                    text-align: center;
-                                    font-family: 'roman';
-                                    margin-bottom: 60px;
-                                }
-                                
-                                .container h1 {
-                                    font-size: 75px;
-                                    letter-spacing: 5px;
-                                    font-family: 'Cinzel';
-                                    text-align: center;
-                                }
-                                
-                                .container img {
-                                    text-align: center;
-                                    height: 320px;
-                                    width: 320px;
-                                    padding: 20px 40px 20px 40px;
-                                }
-                                
-                                .bio {
-                                    position: relative;
-                                    text-align: center;
-                                }
-                                
-                                .bio-text {
-                                    position: center;
-                                    top: 36px;
-                                    bottom: 36px;
-                                    left: 40px;
-                                    font-family: 'Cinzel';
-                                    font-size: 20px;
-                                    font-weight: normal;
-                                }
-                                
-                                .SaleItems {
-                                    width: 1170px;
-                                    margin: 0 auto;
-                                    text-align: center;
-                                    padding-top: 40px;
-                                    font-family: 'roman';
-                                    font-style: normal;
-                                    font-weight: bold;
-                                    font-size: 25px;
-                                    color: #000000;
-                                }
-                                
-                                .sale-container {
-                                    width: 1170px;
-                                    margin: 0 auto;
-                                    text-align: center;
-                                    font-family: 'roman';
-                                    margin-bottom: 60px;
-                                }
-                                
-                                .sale-box {
-                                    border: 2px solid black;
-                                    padding: 15px;
-                                    margin: 15px;
-                                }
-                                
-                                .sale-box a {
-                                    text-decoration: none;
-                                    color: black;
-                                }
-                                
-                                .btn-wrapper {
-                                    width: 1170px;
-                                    padding: 10 15px;
-                                    margin: 0 auto;
-                                    text-align: center;
-                                    background-color: white;
-                                    font-size: 20px;
-                                    padding-top: 10px;
-                                    letter-spacing: 1px;
-                                    font-family: 'roman';
-                                    border: 2px solid black;
-                                }
-                                
-                                .btn {
-                                    display: inline-block;
-                                    opacity: 1;
-                                    padding: 12px 24px;
-                                    color: black;
-                                    background-color: white;
-                                    font-family: 'roman';
-                                    text-decoration: none;
-                                }
-                                
-                                .btn:hover {
-                                    opacity: 0.7;
-                                }
-                                
-                                .brochures {
-                                    padding: 5px;
-                                }
-                                
-                                .links {
-                                    padding: 5px;
-                                }
-                                
-                                header {
-                                    height: 65px;
-                                    width: 1170px;
-                                    background-color: black;
-                                    margin: 0 auto;
-                                    color: white;
-                                    border-bottom: 2px solid black;
-                                    padding: 0 10px;
-                                }
-                                
-                                .header-left {
-                                    float: left;
-                                    width: 224px;
-                                    padding-top: 20px;
-                                    letter-spacing: 10px;
-                                }
-                                
-                                .header-left a {
-                                    color: white;
-                                }
-                                
-                                .header-right {
-                                    float: right;
-                                    width: 124px;
-                                    padding-top: 20px;
-                                    letter-spacing: 10px;
-                                }
-                                
-                                .header-right a {
-                                    color: white;
-                                }
-                                
-                                .InkPolicy {
-                                    margin: 20px 80px;
-                                    border-top: 5px solid #4366af;
-                                    border-bottom: 5px solid #4366af;
-                                }
-                                
-                                .InkPolicy h1 {
-                                    font-family: 'Roman';
-                                    font-weight: bold;
-                                    font-size: 40px;
-                                    text-align: center;
-                                }
-                                
-                                .InkPolicy h2 {
-                                    border: 2px solid #4366af;
-                                    text-align: center;
-                                }
-                                
-                                .InkPolicy p {
-                                    float: right;
-                                    padding: 10px;
-                                    margin-bottom: 40px;
-                                    font-family: 'roman';
-                                    font-size: 26px;
-                                }
-                                
-                                .InkPolicy:after {
-                                    content: "";
-                                    display: table;
-                                    clear: both;
-                                }
-                                /*bottom menu - every page -*/
-                                
-                                .menu {
-                                    width: 100%;
-                                    display: inline-block;
-                                    text-align: center;
-                                    padding-top: 20px;
-                                }
-                                
-                                .menu a {
-                                    color: black;
-                                }
-                                
-                                .column h1 {
-                                    font-family: 'roman';
-                                    font-size: 18px;
-                                    font-weight: bold;
-                                }
-                                
-                                .column p {
-                                    font-family: 'roman';
-                                    font-size: 14px;
-                                }
-                                
-                                .column a {
-                                    color: black;
-                                }
-                                
-                                .column {
-                                    float: left;
-                                    width: 33.3%;
-                                }
-                                /*footer on every page*/
-                                
-                                footer {
-                                    background-color: black;
-                                    color: white;
-                                    font-family: 'roman';
-                                    font-size: 16px;
-                                    width: 1170px;
-                                    padding: 10px 40px;
-                                    display: inline-block;
-                                    width: 100%;
-                                }
-                                
-                                .copyright {
-                                    float: right;
-                                    padding-right: 40px;
-                                }
-                                
-                                .phone {
-                                    text-indent: 60px;
-                                    float: left;
-                                }
-                                
-                                .address {
-                                    float: left;
-                                }
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1170px;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'roman';
+    margin-bottom: 60px;
+}
+
+.container h1 {
+    font-size: 75px;
+    letter-spacing: 5px;
+    font-family: 'Cinzel';
+    text-align: center;
+}
+
+.container img {
+    text-align: center;
+    height: 320px;
+    width: 320px;
+    padding: 20px 40px 20px 40px;
+}
+
+.bio {
+    position: relative;
+    text-align: center;
+}
+
+.bio-text {
+    position: center;
+    top: 36px;
+    bottom: 36px;
+    left: 40px;
+    font-family: 'Cinzel';
+    font-size: 20px;
+    font-weight: normal;
+}
+
+.SaleItems {
+    width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 40px;
+    font-family: 'roman';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    color: #000000;
+}
+
+.sale-container {
+    width: 1170px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'roman';
+    margin-bottom: 60px;
+}
+
+.sale-box {
+    border: 2px solid black;
+    padding: 15px;
+    margin: 15px;
+}
+
+.sale-box a {
+    text-decoration: none;
+    color: black;
+}
+
+.btn-wrapper {
+    width: 1170px;
+    padding: 10 15px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: white;
+    font-size: 20px;
+    padding-top: 10px;
+    letter-spacing: 1px;
+    font-family: 'roman';
+    border: 2px solid black;
+}
+
+.btn {
+    display: inline-block;
+    opacity: 1;
+    padding: 12px 24px;
+    color: black;
+    background-color: white;
+    font-family: 'roman';
+    text-decoration: none;
+}
+
+.btn:hover {
+    opacity: 0.7;
+}
+
+.brochures {
+    padding: 5px;
+}
+
+.links {
+    padding: 5px;
+}
+
+header {
+    height: 65px;
+    width: 1170px;
+    background-color: black;
+    margin: 0 auto;
+    color: white;
+    border-bottom: 2px solid black;
+    padding: 0 10px;
+}
+
+.header-left {
+    float: left;
+    width: 224px;
+    padding-top: 20px;
+    letter-spacing: 10px;
+}
+
+.header-left a {
+    color: white;
+}
+
+.header-right {
+    float: right;
+    width: 124px;
+    padding-top: 20px;
+    letter-spacing: 10px;
+}
+
+.header-right a {
+    color: white;
+}
+
+.InkPolicy {
+    margin: 20px 80px;
+    border-top: 5px solid #4366af;
+    border-bottom: 5px solid #4366af;
+}
+
+.InkPolicy h1 {
+    font-family: 'Roman';
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+.InkPolicy h2 {
+    border: 2px solid #4366af;
+    text-align: center;
+}
+
+.InkPolicy p {
+    float: right;
+    padding: 10px;
+    margin-bottom: 40px;
+    font-family: 'roman';
+    font-size: 26px;
+}
+
+.InkPolicy:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.menu {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.menu a {
+    color: black;
+}
+
+.column h1 {
+    font-family: 'roman';
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.column p {
+    font-family: 'roman';
+    font-size: 14px;
+}
+
+.column a {
+    color: black;
+}
+
+.column {
+    float: left;
+    width: 33.3%;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    font-family: 'roman';
+    font-size: 16px;
+    width: 1170px;
+    padding: 10px 40px;
+    display: inline-block;
+    width: 100%;
+}
+
+.copyright {
+    float: right;
+    padding-right: 40px;
+}
+
+.phone {
+    text-indent: 60px;
+    float: left;
+}
+
+.address {
+    float: left;
+}
