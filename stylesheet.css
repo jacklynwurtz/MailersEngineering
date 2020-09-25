@@ -157,12 +157,12 @@ header {
     text-align: center;
 }
 
-.InkPolicy p {
-    float: right;
+.InkPolicy h3 {
+    float: center;
     padding: 10px;
     margin-bottom: 40px;
     font-family: "Courier New", Courier, monospace;
-    font-size: 26px;
+    font-size: 18px;
 }
 
 .InkPolicy:after {
