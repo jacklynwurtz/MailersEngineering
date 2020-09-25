@@ -151,7 +151,7 @@ header {
 }
 
 .InkPolicy h3 {
-    float: center;
+    text-align: center;
     padding: 10px;
     margin-bottom: 40px;
     font-family: "Courier New", Courier, monospace;
