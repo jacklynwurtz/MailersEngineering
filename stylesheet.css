@@ -7,23 +7,16 @@ body {
 .container {
     width: 1170px;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
     font-family: 'roman';
-    margin-bottom: 60px;
+    margin-bottom: 20px;
 }
 
 .container h1 {
     font-size: 75px;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
     font-family: "Courier New", Courier, monospace;
     text-align: center;
-}
-
-.container img {
-    text-align: center;
-    height: 320px;
-    width: 320px;
-    padding: 20px 40px 20px 40px;
 }
 
 .bio {
