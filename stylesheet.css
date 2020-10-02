@@ -9,14 +9,21 @@ body {
     margin: 0 auto;
     text-align: left;
     font-family: 'roman';
-    margin-bottom: 20px;
+}
+
+.container img {
+    width: 1170px;
+    height: 400px;
 }
 
 .container h1 {
+    position: relative;
+    bottom: 200px;
     font-size: 75px;
     letter-spacing: 2px;
     font-family: "Courier New", Courier, monospace;
     text-align: center;
+    background-color: #4366af;
 }
 
 .bio {
@@ -26,7 +33,6 @@ body {
 
 .bio-text {
     position: center;
-    top: 36px;
     bottom: 36px;
     left: 40px;
     font-family: "Courier New", Courier, monospace;
@@ -106,7 +112,7 @@ header {
     background-color: black;
     margin: 0 auto;
     color: white;
-    border: 2px solid #4366af;
+    border: 2px solid black;
     padding: 0 10px;
 }
 
